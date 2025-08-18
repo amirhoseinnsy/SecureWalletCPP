@@ -1,4 +1,3 @@
-// AmirHosein_Naseri_610301191
 #include <iostream>
 #include <iomanip>
 #include <fstream>
